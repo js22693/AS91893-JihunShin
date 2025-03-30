@@ -11,8 +11,10 @@ nav ul {
 	padding: 5px;
 	overflow: hidden;
 	border-radius: 15px;
-	background-color: rgb(92, 92, 92);
+	background-color: rgba(206, 206, 206, 0.603);
 
+
+	
 }
 
 nav li {
@@ -26,13 +28,13 @@ nav li a {
 	text-align: center;
 	padding: 14px 30px;
 	font-size: 20px;
-	color: #ffc72c;
+	color: #36332b;
     border-radius: 15px;
     
 
 }
 
 nav li a:hover {
-	background-color: rgba(255, 235, 58, 0.849);
+	background-color: rgba(24, 24, 23, 0.849);
 	color:#5c5c5c
 }
