@@ -15,6 +15,8 @@ nav ul {
 	overflow: hidden;
 	border-radius: 15px;
 	background-color: rgba(218, 218, 218, 0.7);
+	outline: auto;
+	outline-color: black;
 
 
 	
@@ -34,7 +36,8 @@ nav li a {
 	font-size: 20px;
 	color: #36332b;
     border-radius: 15px;
-    
+	outline: auto;
+    outline-color: black;
 
 }
 
