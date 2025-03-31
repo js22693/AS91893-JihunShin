@@ -1,17 +1,20 @@
 
 nav {
+	padding-top: 10px;
 	clear: both;
     text-align: right;
+	padding-left: 15px;
+	padding-right: 15px;
 
 }
 
 nav ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 5px;
+	padding: 10px;
 	overflow: hidden;
 	border-radius: 15px;
-	background-color: rgba(206, 206, 206, 0.603);
+	background-color: rgba(218, 218, 218, 0.7);
 
 
 	
@@ -19,6 +22,7 @@ nav ul {
 
 nav li {
 	display: inline-block;
+	
 	
 }
 
