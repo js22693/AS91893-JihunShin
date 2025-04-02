@@ -38,10 +38,30 @@ nav li a {
     border-radius: 15px;
 	outline: auto;
     outline-color: black;
+	
 
 }
 
 nav li a:hover {
 	background-color: rgba(24, 24, 23, 0.623);
 	color:#ffffff
+
 }
+
+body {
+    font-family: "Arial" , sans-serif;
+}
+
+
+#logo{
+    
+	max-width: 10;
+	height: auto;
+    float: left;
+    padding: 15px 0 20px 40px;
+}
+#logo img{
+	height: 50;
+
+}
+
