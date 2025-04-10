@@ -124,7 +124,7 @@ body {
 
 	.info-content.green img {
 	width: 240px;
-	border-radius: 10px;
+	border-radius: 15px;
 	margin-top: 15px;
 	margin-left: 75px;
 
@@ -132,7 +132,7 @@ body {
 
 	.info-content.blue img {
 		width: 240px;
-		border-radius: 10px;
+		border-radius: 15px;
 		margin-top: 10px;
 		margin-right: 150px;
 	}
